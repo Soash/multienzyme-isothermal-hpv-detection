@@ -4,7 +4,7 @@
 [![Platform: MIRA--LFD](https://img.shields.io/badge/Platform-MIRA--LFD-blue.svg)](#assay-architecture--principle)
 [![Targets: HPV--16%20%7C%20HPV--18](https://img.shields.io/badge/Targets-HPV--16%20%7C%20HPV--18-brightgreen.svg)](#overview)
 
-> **Notice:** This repository contains codebase documentation, analytical workflows, and experimental summaries related to an undergraduate thesis project at the Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology (SUST), Sylhet, Bangladesh. The work is currently unpublished. Specific molecular sequences and proprietary formulation parameters have been withheld to preserve publication integrity.
+> **Notice:** This repository contains codebase documentation, analytical workflows, and experimental summaries related to an undergraduate thesis project at the Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh. The work is currently unpublished. Specific molecular sequences and proprietary formulation parameters have been withheld to preserve publication integrity.
 
 ---
 
