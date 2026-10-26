@@ -2,7 +2,8 @@
 
 **Author:** Md Abu Sadat Soash  
 **Supervisor:** Prof. Dr. Gokul Chandra Biswas  
-*Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet-3114, Bangladesh*
+*Department of Genetic Engineering and Biotechnology*
+*Shahjalal University of Science and Technology, Sylhet, Bangladesh*
 
 [![Status: Unpublished Research](https://img.shields.io/badge/Status-Unpublished%20Research-orange.svg)](#confidentiality--publication-notice)
 [![Platform: MIRA--LFD](https://img.shields.io/badge/Platform-MIRA--LFD-blue.svg)](#assay-architecture--principle)
