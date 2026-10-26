@@ -1,4 +1,4 @@
-# Multienzyme Isothermal Rapid Amplification-coupled Lateral Flow Assay (MIRA-LFD) for Point-of-Care High-Risk HPV Detection
+# Multienzyme Isothermal Rapid Amplification-coupled Lateral Flow Assay for Point-of-Care Cervical Cancer Diagnosis through High-Risk Human Papillomavirus Detection
 
 **Author(s):** Md Abu Sadat Soash  
 **Supervisor:** Prof. Dr. Gokul Chandra Biswas  
