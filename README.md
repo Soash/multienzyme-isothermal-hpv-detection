@@ -1,6 +1,6 @@
 # Multienzyme Isothermal Rapid Amplification-coupled Lateral Flow Assay (MIRA-LFD) for Point-of-Care High-Risk HPV Detection
 
-**Author:** Md Abu Sadat Soash  
+**Author(s):** Md Abu Sadat Soash  
 **Supervisor:** Prof. Dr. Gokul Chandra Biswas  
 *Department of Genetic Engineering and Biotechnology*
 *Shahjalal University of Science and Technology, Sylhet, Bangladesh*
