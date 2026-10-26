@@ -1,10 +1,12 @@
 # Multienzyme Isothermal Rapid Amplification-coupled Lateral Flow Assay (MIRA-LFD) for Point-of-Care High-Risk HPV Detection
 
+**Author:** Md Abu Sadat Soash  
+**Supervisor:** Prof. Dr. Gokul Chandra Biswas  
+*Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet-3114, Bangladesh*
+
 [![Status: Unpublished Research](https://img.shields.io/badge/Status-Unpublished%20Research-orange.svg)](#confidentiality--publication-notice)
 [![Platform: MIRA--LFD](https://img.shields.io/badge/Platform-MIRA--LFD-blue.svg)](#assay-architecture--principle)
-[![Targets: HPV--16%20%7C%20HPV--18](https://img.shields.io/badge/Targets-HPV--16%20%7C%20HPV--18-brightgreen.svg)](#overview)
-
-> **Notice:** This repository contains codebase documentation, analytical workflows, and experimental summaries related to an undergraduate thesis project at the Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet, Bangladesh. The work is currently unpublished. Specific molecular sequences and proprietary formulation parameters have been withheld to preserve publication integrity.
+[![Targets: HPV--16%20%7C%20HPV--18](https://img.shields.io/badge/Targets-HPV--16%20%7C%20HPV--18-brightgreen.svg)](#assay-architecture--principle)
 
 ---
 
@@ -17,26 +19,6 @@ The test or diagnosis combines the Multienzyme Isothermal Rapid Amplification (M
 Band intensities were quantified by image analysis across reaction temperature, incubation time, and template copy numbers. At 37 °C, which resembles body temperature, both genotypes were detected within 30 min at copy number of 1 copy/µL. However, the results are inconsistent due to Poisson Distribution effect, whereas 10 copies/µL shows intense and steady band. Interestingly at 30 °C (ambient temperature), detection were positive by visual bands; however, they were faint band on both test lines. These were too marginal for confident visual interpretation. The HPV-18 signal rose early and then plateaued. The HPV-16 signal remained low until 20 min and then rose steeply. Raising the template from 10 to 100 copies/µL increased the HPV-18 signal and slightly compromised the HPV-16 signal, indicating competition for shared reaction components. 
 
 The platform detects both genotypes at 10 copies/µL within 30 min at body temperature without requiring a thermal cycler, power supply, and or readout instrument. It is therefore suited to cervical cancer diagnosis in clinics and community settings where laboratory infrastructure is absent. With further optimization and thorough clinical validation, the MIRA-LFD assay system has the potential to become a promising point-of-care testing platform.
-
----
-
-## Overview
-
-Cervical cancer is a leading cause of cancer mortality among women worldwide, disproportionately impacting low- and middle-income countries (LMICs) such as Bangladesh. While high-risk Human Papillomavirus (hrHPV)—predominantly genotypes **HPV-16** and **HPV-18**—drives the vast majority of cervical malignancies, current screening relies largely on visual inspection with acetic acid (VIA) or standard laboratory-bound quantitative PCR (qPCR). 
-
-qPCR-based molecular diagnostics, though accurate, require sophisticated thermal cyclers, uninterrupted electrical power, cold-chain logistics, and specialized personnel. 
-
-This project demonstrates an **equipment-free, instrument-less molecular diagnostic platform** coupling **Multienzyme Isothermal Rapid Amplification (MIRA)** with a **duplex lateral flow dipstick (LFD)** targeting the **E6 oncogene** of HPV-16 and HPV-18 for point-of-care (PoC) cervical cancer screening.
-
----
-
-## Key Features
-
-- **Isothermal Amplification:** Operates at constant temperature (~37 °C, compatible with body heat incubation), eliminating the need for thermal cyclers.
-- **Duplex Visual Readout:** Distinguishes HPV-16 and HPV-18 simultaneously on a single test strip using gold nanoparticle (AuNP) immunochromatography.
-- **Probe-Mediated Specificity:** Utilizes an endonuclease-cleavable internal NFO probe design to eliminate primer-dimer artifacts and false-positive test lines.
-- **Rapid Turnaround:** Delivers unambiguous, visually readable diagnostic endpoints within **30 minutes**.
-- **Field Deployability:** Aligns with WHO ASSURED criteria for decentralized, low-resource primary care clinics and community screening.
 
 ---
 
@@ -111,9 +93,7 @@ The complete analytical and experimental progression follows a multi-phase valid
 
 ---
 
-## Experimental Highlights (Summary)
-
-*(Note: High-level observations summarized below; extensive numerical datasets are withheld prior to peer-reviewed publication.)*
+## Experimental Highlights
 
 ### 1. Elimination of Primer-Dimer Artefacts
 Initial direct 5'-end primer dual-labeling resulted in spurious false-positive bands on negative controls (NTC) due to inter-primer hybridization. Redesigning the reaction around an internal nfo-probe architecture completely abolished false-positive test lines while maintaining robust positive control responses.
