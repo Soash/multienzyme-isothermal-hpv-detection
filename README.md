@@ -154,7 +154,6 @@ This research contains original, currently **unpublished experimental findings a
 - **Do not reproduce, distribute, or publicly cite** without explicit written authorization from the authors and research supervisors.
 - For academic collaboration or inquiry regarding the manuscript and dataset, please contact the corresponding laboratory:
 
-**Department of Genetic Engineering and Biotechnology**  
-Shahjalal University of Science and Technology, Sylhet, Bangladesh
+
 
 
