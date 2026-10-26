@@ -1,0 +1,534 @@
+[0] Multienzyme Isothermal Rapid Amplification-coupled Lateral Flow Assay for Point-of-Care Cervical Cancer Diagnosis through High-Risk Human Papillomavirus Detection
+[1] A Project Work
+[2] By
+[3] Registration No: 2020431013
+[4] Session: 2020-2021
+[5] BACHELOR OF SCIENCE
+[6] IN
+[7] GENETIC ENGINEERING AND BIOTECHNOLOGY
+[8] Department of Genetic Engineering and Biotechnology
+[9] Shahjalal University of Science and Technology
+[10] Sylhet-3114, Bangladesh
+[11] July, 2026
+[12] Multienzyme Isothermal Rapid Amplification-coupled Lateral Flow Assay for Point-of-Care Cervical Cancer Diagnosis through High-Risk Human Papillomavirus Detection
+[13] A Project Work
+[14] By
+[15] Registration No: 2020431013
+[16] Session: 2020-2021
+[17] Submitted to the Department of Genetic Engineering and Biotechnology
+[18] Shahjalal University of Science and Technology, Sylhet
+[19] In partial fulfillment of the requirements for the degree of
+[20] BACHELOR OF SCIENCE
+[21] IN
+[22] GENETIC ENGINEERING AND BIOTECHNOLOGY
+[23] Department of Genetic Engineering and Biotechnology
+[24] Shahjalal University of Science and Technology
+[25] Sylhet-3114, Bangladesh
+[26] July, 2026
+[27] Multienzyme Isothermal Rapid Amplification-coupled Lateral Flow Assay for Point-of-Care Cervical Cancer Diagnosis through High-Risk Human Papillomavirus Detection
+[28] A Project Work
+[29] By
+[30] Registration No: 2020431013
+[31] Session: 2020-2021
+[32] Approved as to style and content by
+[33] ……………………………....
+[34] (Supervisor)
+[35] Dr. Gokul Chandra Biswas
+[36] Professor
+[37] Department of Genetic Engineering and Biotechnology
+[38] Shahjalal University of Science and Technology
+[39] Sylhet-3114, Bangladesh
+[40] July, 2026
+[41] Multienzyme Isothermal Rapid Amplification-coupled Lateral Flow Assay for Point-of-Care Cervical Cancer Diagnosis through High-Risk Human Papillomavirus Detection
+[42] A Project Work
+[43] By
+[44] Registration No: 2020431013
+[45] Session: 2020-2021
+[46] ……………………………....
+[47] Prof. Dr. Md. Kamrul Islam
+[48] Chairman, Examination Committee
+[49] Department of Genetic Engineering and Biotechnology
+[50] Shahjalal University of Science and Technology
+[51] Sylhet-3114, Bangladesh
+[52] July, 2026
+[53] DECLARATION
+[54] I hereby declare that this project is the result of my own original work carried out under the supervision of Dr. Gokul Chandra Biswas, Professor, Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet-3114, Bangladesh.
+[55] Wherever the work or ideas of others have been used, they have been properly acknowledged and cited in accordance with accepted academic standards. Due recognition has also been given to all sources of information, collaborative discussions, and contributions that supported this research.
+[56] I further declare that this project has not been submitted, either in whole or in part, to any other university or institution for the award of any degree, diploma, or other academic qualification. To the best of my knowledge, the work presented in this project has not been published previously, except where appropriate acknowledgment has been made.
+[57] I affirm that, except where otherwise stated, the work presented in this project is entirely my own.
+[58] ……………………………....
+[59] Md Abu Sadat Soash
+[60] Registration No: 2020431013
+[61] Session: 2020-2021
+[62] Department of Genetic Engineering and Biotechnology
+[63] Shahjalal University of Science and Technology
+[64] Sylhet-3114, Bangladesh
+[65] CERTIFICATION
+[66] I hereby certify that the project entitled "Multienzyme Isothermal Rapid Amplification-coupled Lateral Flow Assay for Point-of-Care Cervical Cancer Diagnosis through High-Risk Human Papillomavirus Detection" is an original work carried out by Md Abu Sadat Soash under my supervision in partial fulfillment of the requirements for the degree of Bachelor of Science (Honours) in Genetic Engineering and Biotechnology at Shahjalal University of Science and Technology, Sylhet-3114, Bangladesh.
+[67] To the best of my knowledge, this project has not been submitted, either in whole or in part, to any other university or institution for the award of any degree, diploma, or other academic qualification. I hereby approve the submission of this project.
+[68] ……………………………....
+[69] (Supervisor)
+[70] Dr. Gokul Chandra Biswas
+[71] Professor
+[72] Department of Genetic Engineering and Biotechnology
+[73] Shahjalal University of Science and Technology
+[74] Sylhet-3114, Bangladesh
+[75] CONTENTS
+[76] ACKNOWLEDGEMENTSi
+[77] LIST OF ABBREVIATIONSiii
+[78] LIST OF TABLESv
+[79] LIST OF FIGURESv
+[80] ABSTRACTvi
+[81] Chapter One: Introduction1
+[82] 1.1 The Global and Regional Burden of Cervical Cancer1
+[83] 1.2 Current Cervical Cancer Screening Landscape in Bangladesh2
+[84] 1.3 Molecular Basis of HPV Oncogenesis and the E6 Target3
+[85] 1.4 Isothermal Amplification and the MIRA Platform5
+[86] 1.5 Lateral Flow Strip Assay: Principles and Detection Mechanism8
+[87] 1.6 Research Gap and Proposal10
+[88] 1.7 Research Objectives11
+[89] Chapter Two: Materials and Methods12
+[90] 2.1 General Equipment13
+[91] 2.2 Target Region Selection and Synthesis13
+[92] 2.3 Design and Optimization of Primer and Probe Design14
+[93] 2.3.1 Design Principles14
+[94] 2.3.2 In Silico Design Workflow15
+[95] 2.2.3 Procurement and Reconstitution15
+[96] 2.4 Reagent and Buffer Preparation16
+[97] 2.5 Operation and Validation of Multienzyme Isothermal Rapid Amplification Coupled with Lateral Flow Assay16
+[98] 2.6 Optimization and Characterization of the Assay18
+[99] 2.7 LFA Images and Band Intensity Analysis19
+[100] Chapter Three: Results20
+[101] 3.1 Validation of Primer, Probe and Assay Workflow for Multiplex Detection of High-Risk Human Papillomavirus Detection20
+[102] 3.2 Characterization of Multiplex MIRA-LFD for Field Application25
+[103] 3.2.1 Effect of Reaction Temperature on Amplification25
+[104] 3.2.2 Optimization of Incubation Time27
+[105] 3.2.3 Analytical Sensitivity and the Effect of Template Copy Number29
+[106] Chapter Four: Discussion31
+[107] Chapter Five: References36
+[108] ACKNOWLEDGEMENTS
+[109] All praises and sincere gratitude are due to Almighty Allah, the Most Gracious and the Most Merciful, for blessing me with the strength, patience, and perseverance to successfully complete this research and fulfill the requirements of my Bachelor of Science (Honours) degree in Genetic Engineering and Biotechnology.
+[110] First and foremost, I would like to express my deepest gratitude and sincere appreciation to my respected supervisor, Dr. Gokul Chandra Biswas, Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, for his invaluable guidance, continuous encouragement, constructive criticism, and unwavering support throughout the course of this research. His profound knowledge, scientific insight, and dedication to research have been a constant source of inspiration and played a pivotal role in the successful completion of this thesis.
+[111] I would also like to express my sincere gratitude to my seniors, Md. Mainul Hossain Bakul and Nahian Kabir Arpa, for their generous mentorship, technical guidance, and continuous encouragement throughout my laboratory work. I am also grateful to our laboratory attendants, Md. Sadiqur Rahman and Md. Poyesh Miah, for their valuable technical assistance and sincere cooperation throughout the experimental work.
+[112] I am sincerely grateful to the Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology, Sylhet-3114, Bangladesh for providing the laboratory facilities, academic environment, and institutional support necessary to carry out this research successfully.
+[113] Finally, I express my deepest gratitude to my beloved mother, Sumi Sikder, whose unconditional love, endless sacrifices, prayers, and unwavering belief in me have been the foundation of all my achievements. Her constant encouragement has been my greatest source of strength throughout my academic journey. I would also like to extend my heartfelt appreciation to my dear friend, Taiba Farhana Ritu, for her continuous motivation, moral support, understanding, and companionship during the most challenging phases of this research. Their encouragement and faith in me made this journey both meaningful and rewarding.
+[114] Dedicated to My Mother
+[115] LIST OF ABBREVIATIONS
+[116] Abbreviation
+[117] Full Form
+[118] 6-FAM
+[119] 6-Carboxyfluorescein
+[120] AuNP
+[121] Gold Nanoparticle
+[122] bp
+[123] Base Pairs
+[124] C3-spacer
+[125] Three-Carbon Spacer
+[126] CIN
+[127] Cervical Intraepithelial Neoplasia
+[128] DIG
+[129] Digoxigenin
+[130] DNA
+[131] Deoxyribonucleic Acid
+[132] dsDNA
+[133] Double-Stranded DNA
+[134] E6AP
+[135] E6-Associated Protein
+[136] EDTA
+[137] Ethylenediaminetetraacetic Acid
+[138] Endo IV
+[139] Endonuclease IV
+[140] GEB
+[141] Genetic Engineering and Biotechnology
+[142] HDA
+[143] Helicase-Dependent Amplification
+[144] HPV
+[145] Human Papillomavirus
+[146] hrHPV
+[147] High-Risk Human Papillomavirus
+[148] INAAT
+[149] Isothermal Nucleic Acid Amplification Technology
+[150] LAMP
+[151] Loop-Mediated Isothermal Amplification
+[152] LCR
+[153] Long Control Region
+[154] LFA
+[155] Lateral Flow Assay
+[156] LFD
+[157] Lateral Flow Dipstick
+[158] LMIC
+[159] Low- and Middle-Income Countries
+[160] LoD
+[161] Limit of Detection
+[162] MIRA
+[163] Multienzyme Isothermal Rapid Amplification
+[164] NASBA
+[165] Nucleic Acid Sequence-Based Amplification
+[166] NC
+[167] Negative Control
+[168] NCBI
+[169] National Center for Biotechnology Information
+[170] NFO
+[171] Nicking Endonuclease-Based Fluorescent Oligonucleotide
+[172] PC
+[173] Positive Control
+[174] PCR
+[175] Polymerase Chain Reaction
+[176] POC
+[177] Point-of-Care
+[178] pRb
+[179] Retinoblastoma Tumour Suppressor Protein
+[180] qPCR
+[181] Quantitative Polymerase Chain Reaction
+[182] RPA
+[183] Recombinase Polymerase Amplification
+[184] SDA
+[185] Strand Displacement Amplification
+[186] SSB
+[187] Single-Stranded DNA Binding Protein
+[188] SUST
+[189] Shahjalal University of Science and Technology
+[190] T1
+[191] Test Line 1
+[192] T2
+[193] Test Line 2
+[194] T/C
+[195] Test-to-Control Line Intensity Ratio
+[196] TE
+[197] Tris-EDTA
+[198] THF
+[199] Tetrahydrofuran
+[200] Tris
+[201] Tris(hydroxymethyl)aminomethane
+[202] VIA
+[203] Visual Inspection with Acetic Acid
+[204] WHO
+[205] World Health Organization
+[206] LIST OF TABLES
+[207] Table 1.1:
+[208] Comparison of the principal isothermal nucleic acid…………………...
+[209] 2
+[210] Table 3.1:
+[211] MIRA primer and NFO probe sets for the HPV-16 and HPV-18…...…..
+[212] 20
+[213] Table 3.2:
+[214] Forward primers used in the initial directly labelled………………...….
+[215] 22
+[216] LIST OF FIGURES
+[217] Figure 1.1:
+[218] Estimated annual number of deaths from cervical cancer.....................
+[219] 2
+[220] Figure 1.2:
+[221] Genome organization of human papillomavirus....................................
+[222] 4
+[223] Figure 1.3:
+[224] The principle of multienzyme isothermal rapid amplification………..
+[225] 7
+[226] Figure 1.4:
+[227] Schematic of a typical lateral flow assay device...................................
+[228] 8
+[229] Figure 1.5:
+[230] Probe-mediated dual-label detection on a two-line...............................
+[231] 10
+[232] Figure 2.1
+[233] Workflow of the study……………………..………………………….
+[234] 12
+[235] Figure 2.2
+[236] Shows the overall assay principle from a sample to an answer……….
+[237] 17
+[238] Figure 3.1:
+[239] Elimination of the primer-dimer artefact by..........................................
+[240] 24
+[241] Figure 3.2:
+[242] Effect of reaction temperature on MIRA-LFD detection......................
+[243] 26
+[244] Figure 3.3:
+[245] Effect of incubation time on MIRA-LFD detection..............................
+[246] 28
+[247] Figure 3.4:
+[248] Effect of template copy number on MIRA-LFD detection....................
+[249] 30
+[250] ABSTRACT
+[251] Cervical cancer is a leading cause of cancer death among women around the globe. HPV vaccination has not been properly introduced yet. Screening of cervical cancer incidences still relies on visual inspection with acetic acid. HPV DNA testing, recommended by the World Health Organization, remains unimplemented in developing country like Bangladesh. Quantitative PCR used in HPV DNA testing requires thermal cyclers, stable electricity, cold-chain reagents, and trained personnel. To mitigate these challenges, this study aimed to develop an equipment-free assay for the simultaneous detection of the E6 oncogene of HPV-16 and HPV-18, thereby confirming the incidence of cervical cancer-associated. The test or diagnosis combines the Multienzyme Isothermal Rapid Amplification (MIRA) of target biomarker with a duplex lateral flow dipstick (LFD). Genotype-specific primers and internal NFO probes were designed against synthetic E6 fragments. An initial design placed fluorescein and hapten labels directly on the primers. This produced false positives outcomes in no-template controls, caused by dual-labelled primer-dimers. The assay was redesigned around an unlabeled forward primer and an internal FAM-labelled NFO probe. Thus, false-positive results were eliminated in negative controls. Band intensities were quantified by image analysis across reaction temperature, incubation time, and template copy numbers. At 37 °C, which resembles body temperature, both genotypes were detected within 30 min at copy number of 1 copy/µL. However, the results are inconsistent due to Poisson Distribution effect, whereas 10 copies/µL shows intense and steady band. Interestingly at 30 °C (ambient temperature), detection were positive by visual bands; howerver, they were faint band on both test lines. These were too marginal for confident visual interpretation. The HPV-18 signal rose early and then plateaued. The HPV-16 signal remained low until 20 min and then rose steeply. Raising the template from 10 to 100 copies/µL increased the HPV-18 signal and slightly compromised the HPV-16 signal, indicating competition for shared reaction components. The platform detects both genotypes at 10 copies/µL within 30 min at body temperature without requiring a thermal cycler, power supply, and or readout instrument. It is therefore suited to cervical cancer diagnosis in clinics and community settings where laboratory infrastructure is absent. With further optimization and thorough clinical validation, the MIRA-LFD assay system has the potential to become a promising point-of-care testing platform.
+[252] Chapter One: Introduction
+[253] 1.1 The Global and Regional Burden of Cervical Cancer
+[254] The worldwide cancer burden is growing, and low- and middle-income countries (LMICs) are experiencing a disproportionate share of that growth, facing cost and access barriers to early detection that leave late-stage diagnosis a leading cause of cancer mortality [1]. Cervical cancer accounted for approximately 604,000 new cases and 342,000 deaths worldwide in 2020, making it the fourth most common cancer and the fourth leading cause of cancer death among women [2]. Incidence has fallen in high-income countries through organized screening and vaccination, but over 85 % of all cases and deaths now occur in resource-limited settings where preventive and therapeutic services remain severely restricted [3], [4]. While high-resource settings transition toward molecular screening and co-testing, LMICs continue to face financial and logistical barriers to both screening and vaccination [5], [6].
+[255] Bangladesh faces a particularly acute challenge, with crude cervical cancer incidence and mortality rates of 10.2 and 6.1 per 100,000 women respectively [3], and an estimated 8,300 new cases and 4,900 deaths annually. The high mortality-to-incidence ratio reflects systemic weakness in early detection infrastructure [2].
+[256] Human papillomavirus (HPV) comprises over 200 genotypically related viruses, classified as low- or high-risk, which replicate in the keratinocytes of skin and mucous membranes; infection with HPV-16 or HPV-18 carries a substantially higher rate of progression to cancer [8]. In a cohort of 410 asymptomatic Bangladeshi women, 29.5 % tested positive for HPV, with HPV-16 and HPV-18 the most prevalent genotypes, concentrated in the 30-to-49 year age group [9]. These are the two genotypes responsible for the majority of the national burden, and they were selected as the diagnostic targets of the present work. Critically, HPV vaccination has not been implemented at scale in Bangladesh's national immunization program, leaving most of the at-risk population without prophylactic protection [10], [11]. In the absence of vaccine coverage, accessible screening remains the single most important available intervention.
+[257] Figure 1.1: Estimated annual number of deaths from cervical cancer worldwide, 2023. The burden is concentrated in South Asia and sub-Saharan Africa, with Bangladesh among the most affected countries [7].
+[258] 1.2 Current Cervical Cancer Screening Landscape in Bangladesh
+[259] Cervical cancer has a long premalignant phase that responds well to timely treatment, which makes organized screening essential [12]. Globally, Pap smear cytology has been the standard method and has substantially reduced disease prevalence in developed countries, but cytology-based programs are difficult to sustain in LMICs because of cost, a shortage of trained cytopathologists, and the multistage nature of the procedure. This led to the adoption of Visual Inspection with Acetic Acid (VIA), a low-cost alternative giving immediate results without laboratory support [12].
+[260] In Bangladesh, VIA forms the backbone of the national programme. Following a 2005 pilot, the Government established VIA-based screening across 600 health facilities; registry data show over 1.5 million women enrolled across 497 facilities and 6,398 community clinics, with 99.6 % undergoing VIA, 3.3 % testing VIA-positive, and 6.2 % of colposcopy-positive women having confirmed carcinoma [13]. Comparative studies support this choice. At Dhaka Medical College Hospital, VIA showed markedly higher sensitivity than Pap smear (94.4 % versus 55.6 %), though Pap smear retained slightly higher specificity [14]. A BSMMU study found VIA detected 30 of 38 histologically confirmed abnormalities including both cancers, whereas Pap smear detected only 8 and missed every cancer [15].
+[261] HPV DNA testing, however, has not been effectively implemented in Bangladesh, and Pap smear remains costly, leaving VIA followed by colposcopy the most practicable approach for rural areas [16]. Poor financial access and the absence of a national cancer registry remain major barriers. VIA therefore serves as the frontline tool, with Pap smear, colposcopy, and biopsy as confirmatory measures, while HPV testing represents the critical gap for future programme expansion [17].
+[262] 1.3 Molecular Basis of HPV Oncogenesis and the E6 Target
+[263] Human papillomaviruses are small, non-enveloped double-stranded DNA viruses of the family Papillomaviridae. The genome, approximately 8,000 bp, is organized into three regions: the Early (E) region encoding the non-structural proteins E1, E2, E4, E5, E6 and E7, responsible for replication, transcription and cellular transformation; the Late (L) region encoding the major (L1) and minor (L2) capsid proteins; and the Long Control Region (LCR), a non-coding regulatory segment containing the replication origin and transcription factor binding sites [18]. Of the fourteen recognized high-risk genotypes, HPV-16 and HPV-18 are the most oncogenic, together responsible for approximately 70 % of cervical cancers worldwide [8]. Infection targets the basal epithelial cells of the cervical transformation zone, where squamous and columnar epithelia meet and where the majority of cervical precancers originate [20]. Most immunocompetent individuals clear the infection within one to two years. In a subset of women, the infection persists, and the viral genome, initially an extrachromosomal episome, may integrate into host chromosomal DNA [18]. This integration event is pivotal to malignant progression.
+[264] Figure 1.2: Genome organization of human papillomavirus, showing the Early (E) region, the Late (L) region encoding the L1 and L2 capsid proteins, and the Long Control Region (LCR) [19].
+[265] Integration characteristically disrupts the viral E2 gene, which normally represses transcription of E6 and E7. Loss of E2 repression results in constitutive overexpression of both oncoproteins [18]. E7 binds and inactivates the retinoblastoma protein (pRb), disrupting the pRb-E2F complex and driving uncontrolled cell cycle entry [18]. E6, acting through a complementary pathway, forms a trimeric complex with the host ubiquitin ligase E6-associated protein (E6AP); this complex binds p53 and directs its polyubiquitination and degradation by the 26S proteasome [21]. Continuous destruction of p53 abolishes the capacity for apoptosis and cell cycle arrest in response to genomic damage, permitting the accumulation of mutations that drives progression through cervical intraepithelial neoplasia grades 1 to 3 to invasive carcinoma [18].
+[266] This mechanism establishes E6 as an ideal diagnostic target. Many conventional HPV assays instead target the L1 capsid gene, which contains conserved regions amenable to broad-spectrum primers such as MY09/MY11 and GP5+/6+ [8]. L1-based detection, however, carries a fundamental vulnerability: during integration the episome is linearized and large segments of L1 and L2 are frequently deleted from the integrated provirus [18]. Consequently, in women with advanced precancerous lesions (CIN 2/3) or invasive carcinoma, precisely those who most urgently require detection, L1-targeted assays may return false negatives because the target sequence is no longer present [22].
+[267] E6, by contrast, is consistently retained and actively transcribed, because continuous E6 expression is an absolute requirement for sustained p53 suppression and therefore for tumour cell survival. Any transformed cell must retain and express E6 [18]. Targeting E6 therefore confirms not merely the presence of HPV but active oncogenic activity, eliminating the false negatives associated with integration-mediated L1 loss [22]. Because E6 is the principal mechanism by which HPV-16 and HPV-18 sustain transformation, its detection is most clinically meaningful for precisely the two genotypes responsible for over 80 % of the cervical cancer burden in Bangladesh and the wider South Asian region [8], [9].
+[268] 1.4 Isothermal Amplification and the MIRA Platform
+[269] Isothermal nucleic acid amplification technologies (INAATs) overcome the logistical barrier of thermal cycling by achieving strand separation, primer binding, and synthesis at a single constant temperature, typically between 37 °C and 65 °C [26]. The unifying principle is the substitution of heat-mediated denaturation with enzyme-mediated strand displacement: rather than heating dsDNA to approximately 95 °C, INAATs employ strand-displacing polymerases, recombinases, helicases or nickases to locally unwind the duplex at the primer binding site [26]. Because no programmable thermal cycler is needed, these reactions can be driven by a water bath, a portable heat block, or in some configurations body heat alone, making them structurally compatible with point-of-care use [27].
+[270] Several platforms have been developed since the early 1990s, each using a different enzymatic strategy; their characteristics are compared in Table 1.1. LAMP is highly efficient but needs four to six primers and operates at 60 °C to 65 °C; NASBA is restricted to RNA targets; HDA offers simple two-primer design but lower efficiency at low copy number; and SDA, though it runs at low temperature, depends on restriction enzyme recognition sites, which severely limits target choice. Recombinase-based amplification is the only platform combining a near-physiological operating temperature with two-primer design, tolerance of crude samples, and ready compatibility with lateral flow readout, and it is on this combination, rather than on temperature alone, that its suitability for point-of-care use rests. Recombinase Polymerase Amplification (RPA), first described by Piepenburg et al. in 2006, operates at the lowest temperature of any INAAT, requiring only 37 °C to 42 °C [32]. Its mechanism proceeds in three steps. A recombinase, the bacteriophage T4 UvsX protein, binds the primers to form a nucleoprotein filament that scans intact dsDNA for homologous sequence and catalyses strand exchange, inserting the primer into the duplex without heat. Single-stranded DNA binding proteins (SSBs) then coat the displaced strand, stabilizing the open fork and preventing re-annealing.
+[271] Table 1.1: Comparison of the principal isothermal nucleic acid amplification platforms.
+[272] Method
+[273] Temperature
+[274] Primers
+[275] Target
+[276] Key limitation
+[277] Ref.
+[278] LAMP
+[279] 60–65 °C
+[280] 4–6
+[281] DNA/RNA
+[282] Complex primer design; high operating temperature
+[283] [28]
+[284] NASBA
+[285] 41 °C
+[286] 2
+[287] RNA
+[288] Restricted to RNA targets
+[289] [29]
+[290] HDA
+[291] 37 °C
+[292] 2
+[293] DNA
+[294] Lower efficiency at low copy number
+[295] [30]
+[296] SDA
+[297] 37 °C
+[298] 4
+[299] DNA
+[300] Dependence on restriction enzyme sites
+[301] [31]
+[302] RPA / MIRA
+[303] 37–42 °C
+[304] 2
+[305] DNA
+[306] Intellectual property constraints (RPA only)
+[307] [32]
+[308] A processive strand-displacing polymerase, typically Bacillus subtilis Pol I large fragment, extends the primer while displacing the downstream strand [32]. Because new strands immediately become templates for further recombinase-primer complexes, amplification proceeds exponentially at constant temperature, yielding detectable product within 15 to 20 min [32], [33].
+[309] RPA has been validated across many infectious disease targets, frequently reaching single-digit copy detection limits comparable to qPCR, with short reaction times, tolerance of crude samples, and compatibility with lateral flow strips [33]. Its chemistry, however, was developed exclusively by TwistDx Limited, which holds comprehensive patent protection over the core enzymes, reaction conditions, primer design parameters, and detection formats [35]. Independent use outside licensed agreements entails mandatory purchase of TwistDx lyophilized kits, prohibition on independent reagent sourcing, and licensing fees that are prohibitive for academic groups and public health programmed in LMICs [32]. These constraints conflict directly with the goal of an affordable, openly reproducible assay for settings such as Bangladesh, where reagent cost and supply-chain independence are fundamental.
+[310] Figure 1.3: The principle of multienzyme isothermal rapid amplification (MIRA). The recombinase-primer filament invades the intact duplex, single-stranded DNA binding proteins stabilize the displaced strand, and a strand-displacing polymerase extends the primer, allowing exponential amplification at constant temperature [34].
+[311] Multienzyme Isothermal Rapid Amplification (MIRA) was developed as a functionally equivalent but intellectually independent alternative, preserving the biochemical architecture of recombinase-based amplification while falling outside the TwistDx patent estate [36]. MIRA employs the same three-enzyme cascade at 37 °C to 42 °C; the distinctions lie not in mechanism but in the specific protein variants, enzyme sources, buffer formulations, and primer design parameters used [36]. Comparative evaluation has shown MIRA to match RPA in sensitivity and specificity for DNA targets, with amplification complete in 15 to 20 min [36], and the platform has been coupled successfully to lateral flow, CRISPR, and fluorescence readouts [34]. It has recently been applied to high-risk HPV: Yin et al. reported that multiplexed MIRA with CRISPR/Cas12a achieved 100 % clinical sensitivity and specificity for fourteen high-risk types, including HPV-16 and HPV-18, across 258 clinical specimens [37]. MIRA was therefore selected here on two grounds: freedom from the TwistDx patent estate, permitting independent reproduction by laboratories in Bangladesh, and an operating temperature low enough to be reached without laboratory equipment.
+[312] 1.5 Lateral Flow Strip Assay: Principles and Detection Mechanism
+[313] The lateral flow assay, or immunochromatographic strip test, is the simplest and most widely deployed form of paper-based microfluidic device, familiar from pregnancy and rapid antigen tests and increasingly used with nucleic acid amplification [38]. Its operating principle is capillary action alone: liquid is drawn across a series of overlapping microporous zones without pumps, channels, power, or instrumentation of any kind [38]. This entirely passive operation is what makes the format suitable for the settings targeted here.
+[314] Figure 1.4: Schematic of a typical lateral flow assay device, showing the sample pad, conjugate pad, nitrocellulose membrane bearing the test and control lines, and the absorbent pad that sustains capillary flow [39].
+[315] A standard strip comprises four overlapping components on a rigid backing. The sample pad, of cellulose or glass fiber, receives the sample and may carry buffer salts to standardize flow and reduce non-specific binding [40]. The conjugate pad holds dried, mobilizable detection particles, most commonly colloidal gold nanoparticles conjugated to antibodies or oligonucleotide probes; these rehydrate and migrate with the fluid front [40]. The nitrocellulose membrane forms the analytical zone, pre-striped with discrete capture lines at which immobilized capture molecules bind the analyte-conjugate complex [40]. The absorbent pad acts as a fluid sink, wicking excess liquid and sustaining flow for the duration of the assay [40]. As the sample migrates, the tagged analyte binds the gold conjugate, the complex is captured at the test line, and gold nanoparticles accumulate to form a visible colored band [41]. A downstream control line binds excess conjugate regardless of analyte, confirming valid flow and reagent function [41]. The result is read by eye within minutes, without instrumentation.
+[316] For assays coupling lateral flow to nucleic acid amplification, the conventional detection strategy relies on dual-hapten labelling of the amplification primers rather than direct antibody-antigen recognition [34]. The forward primer is labelled at its 5' terminus with a hapten such as fluorescein (FAM) and the reverse primer with a second hapten, commonly biotin or digoxigenin (DIG), so that successful amplification yields amplicons bearing both labels at opposite ends. On the strip, FAM binds the anti-FAM gold conjugate while biotin or DIG is captured at the test line by immobilized streptavidin or anti-DIG antibody [34]. 
+[317] This conventional configuration carries an important vulnerability, however. Because the strip captures any molecule bearing both labels, a primer-dimer formed between the two labelled primers is captured exactly as a genuine amplicon would be, producing a false positive in the complete absence of target. For this reason, the assay developed in the present study places the FAM label not on the forward primer but on a separate internal NFO probe, so that the dual-labelled species required for capture can arise only from an authentically amplified target strand. The consequences of this design choice are demonstrated experimentally in §3.1.
+[318] The World Health Organization's ASSURED criteria hold that diagnostics for resource-limited settings should be affordable, sensitive, specific, user-friendly, rapid, equipment-free, and deliverable to end users [43]. The lateral flow format satisfies these comprehensively: it needs no power or instrumentation; results are read by direct visual inspection without trained personnel; detection is complete within minutes; and low unit cost together with the shelf stability of dried reagents supports affordability and deliverability to the remote settings described in §1.2. Coupling the isothermal chemistry established in §1.5 to lateral flow detection therefore constitutes a complete, equipment-free molecular diagnostic platform for the point-of-care detection of HPV-16 and HPV-18 E6 sequences.
+[319] Figure 1.5: Probe-mediated dual-label detection on a two-line lateral flow strip. The FAM/FITC label is carried on the internal probe rather than on the forward primer. Amplicon A is captured at the first test line via biotin-streptavidin binding and amplicon B at the second via digoxigenin-anti-DIG binding, allowing the two genotypes to be read independently, while excess conjugate is bound at the control line [42].
+[320] 1.6 Research Gap and Proposal
+[321] The preceding sections establish the clinical need, the diagnostic advantage of the E6 target, the constraints of conventional molecular testing, and the suitability of recombinase-based amplification coupled to lateral flow detection. Together these reveal a clearly defined and currently unaddressed gap. No published platform has combined Multienzyme Isothermal Rapid Amplification with lateral flow dipstick detection for the specific purpose of detecting the E6 oncogene of HPV-16 and HPV-18. MIRA has been validated for other pathogens and, for HPV, has been demonstrated in combination with CRISPR/Cas12a readout, but no study has integrated MIRA with the simpler, fully instrument-free lateral flow format for E6 identification. This gap is particularly consequential for Bangladesh and comparable LMICs, where high disease burden, limited laboratory infrastructure, and the absence of a national HPV testing programme converge into an urgent and well-defined clinical need. The present study therefore proposes a Multienzyme Isothermal Rapid Amplification assay, coupled to a lateral flow dipstick, for the detection of high-risk Human Papillomavirus in support of cervical cancer diagnosis in low-resource settings. 
+[322] 1.7 Research Objectives
+[323] The aim of this study is to develop a Multienzyme Isothermal Rapid Amplification assay, coupled to a lateral flow dipstick, for the detection of high-risk Human Papillomavirus in support of cervical cancer diagnosis in low-resource settings. The following specific objectives were pursued:
+[324] To design the primers and NFO probes for MIRA-LFD-coupled High-Risk HPV (hrHPV) detection.
+[325] To apply MIRA-LFD assay for multiplex detection of hrHPVs.
+[326] To characterize the  MIRA-LFD assay targeting on-site application.
+[327] Chapter Two: Materials and Methods
+[328] This study was carried out at the Special Laboratory for COVID-19 Detection, Department of Genetic Engineering & Biotechnology at Shahjalal University of Science and Technology, Sylhet-3114. This chapter details the materials and methodologies employed throughout the research, with the comprehensive workflow outlined in Figure 2.1.
+[329] Figure 2.1 Workflow of the study
+[330] 2.1 General Equipment 
+[331] Microcentrifuge Tube (Axygen)
+[332] Centrifuge (Thermofisher)
+[333] Vortex 
+[334] Block Heater
+[335] Micropipette
+[336] Multi-Spinner (TOMY)
+[337] 2.2 Target Region Selection and Synthesis
+[338] The E6 oncogene of Human Papillomavirus type 16 (HPV-16) and Human Papillomavirus type 18 (HPV-18) was selected as the molecular target for this study, on the diagnostic and biological rationale established in §1.3. Reference genomic sequences for both target genes were obtained from the National Center for Biotechnology Information (NCBI) Gene database [44], [45]. The HPV-16 E6 gene (Gene ID: 1489078, locus tag HpV16gp1) is encoded on the plus strand of the HPV-16 reference genome (accession NC_001526.4, assembly GCF_000863945.3) at genomic coordinates 7125 to 7601, with a total coding length of 477 nucleotides [44], [46]. Its HPV-18 counterpart (Gene ID: 1489088, locus tag HpV18gp1) is encoded on the plus strand of the HPV-18 reference genome (accession NC_001357.1, assembly GCF_000865665.1) at coordinates 105 to 581, and is likewise 477 nucleotides in length [45], [47]. Both are annotated as PROTEIN_CODING within the NCBI framework [44], [45]. For each target, a representative sub-region of the E6 coding sequence was selected for incorporation into a synthetic double-stranded DNA fragment. Selection prioritized regions long enough to accommodate the full MIRA primer binding sites and the internal probe sequence, while remaining within the length range compatible with commercial gene fragment synthesis. Each insert was flanked at both termini by a standardized 25-nucleotide adapter, contributing 50 adapter nucleotides in total, giving the construct architecture:
+[339] 5'-CACGACTACAGTGAATAGGCAAGCG-[insert]-GGATAGCATGCCAGTCTAGACAACG-3'
+[340] The HPV-16 insert spanned 200 nucleotides of the E6 coding region, giving a construct of 250 nucleotides including adapters; the HPV-18 insert spanned 330 nucleotides, giving a construct of 380 nucleotides. Both fragments were procured from GenScript (Nanjing, China) as lyophilized double-stranded DNA at a yield of 500 ng per fragment [50]. On receipt, both were stored at −20 °C, protected from light and moisture, until reconstitution.
+[341] 2.3 Design and Optimization of Primer and Probe Design
+[342] 2.3.1 Design Principles
+[343] Primer design for MIRA-based amplification follows requirements that differ substantially from those of conventional PCR. MIRA primers are typically 30 to 35 nucleotides in length, with a GC content between 40 % and 60 %, and must be free of significant self-complementarity or primer-primer dimerization that would compete with productive template binding at the low operating temperature of 37 °C to 42 °C [32]. Because the recombinase-mediated strand invasion mechanism requires the primer to insert actively into intact double-stranded DNA, binding must remain stable at physiological temperature without the assistance of heat denaturation, which makes the avoidance of secondary structure particularly critical [32].
+[344] Alongside the forward and reverse primers, MIRA amplification with a lateral flow readout employs a specialized internal oligonucleotide known as an NFO (nicking endonuclease-based fluorescent oligonucleotide) probe [36]. The probe hybridizes internally within the amplicon, between the two primer binding sites, and carries a tetrahydrofuran (THF) abasic site analogue at a defined internal position. This THF site is recognized and cleaved by the Escherichia coli Endonuclease IV (Endo IV) present in the MIRA reaction mixture. Cleavage releases a 3'-labelled fragment bearing a free hydroxyl group, which the strand-displacing polymerase then extends [36]. A C3-spacer at the 3' terminus of the intact probe prevents extension before cleavage occurs. The labelled amplicon required for lateral flow capture can therefore be generated only after the probe has hybridized to a genuine target strand, which is the basis of the specificity of this detection format [36].
+[345] The detection architecture was configured so that the two genotypes could be resolved independently on a single strip. In each set the forward primer is unlabeled; the NFO probe carries a 5'-FAM label, which is bound by the anti-FAM gold nanoparticle conjugate at the conjugate pad, together with the 3'-C3-spacer described above. The HPV-16 reverse primer carries a 5'-biotin label, captured at the T1 test line by immobilized streptavidin, while the HPV-18 reverse primer carries a 5'-digoxigenin label, captured at the T2 test line by immobilized anti-DIG antibody. Because capture occurs at spatially separate lines, the two genotypes are detected independently within a single multiplexed reaction.
+[346] 2.3.2 In Silico Design Workflow
+[347] Candidate primer and probe sets were generated against the HPV-16 and HPV-18 E6 reference sequences (§2.1) using the PrimedRPA software tool, which applies recombinase-amplification-specific constraints on oligonucleotide length, GC content, and terminal composition [48]. Candidate sets were then screened for self-complementarity, hairpin formation, and cross-primer dimerization using the MIRA Primer Analyzer [49]. Final sets were selected on the basis of predicted amplicon length, the absence of significant primer-primer interaction, and compatibility with the dual-labelled lateral flow detection format. Because both genotypes are amplified in a single duplex reaction, candidate sets were additionally screened for cross-interaction between the HPV-16 and HPV-18 oligonucleotides.
+[348] The oligonucleotide sequences returned by this design workflow, together with their lengths, GC contents, melting temperatures, and terminal modifications, are presented as a result of the design process in Chapter Three: Section 3.1.
+[349] 2.2.3 Procurement and Reconstitution
+[350] All six oligonucleotides were procured from EZAssay (Shenzhen, China) and purified by HPLC. On receipt, they were stored in their lyophilized state at −20 °C, protected from light, until reconstitution. Each oligonucleotide was reconstituted in TE buffer (pH 8.0; §2.4) to a working concentration of 10 µM. The volume of buffer added to each tube was calculated from the amount supplied, given on the manufacturer's datasheet, as:
+[351] V (µL) = [amount (nmol) × 1000] / concentration (µM)
+[352] Buffer was added directly to the lyophilized pellet, and the tube was vortexed for ten seconds and left to stand at room temperature for five minutes to dissolve and stored at −20 °C, protected from light.
+[353] 2.4 Reagent and Buffer Preparation
+[354] TE buffer (10 mM Tris-HCl, 1 mM EDTA, pH 8.0) was prepared to a standard 1x working concentration. The solution was autoclaved at 121 °C for 15 min and stored at room temperature in 15 mL screw-cap tubes.
+[355] To prepare master stocks concentration of 10¹⁰ copies/µL from the lyophilized fragments, the number of DNA molecules per unit mass was calculated as:
+[356] C = ( m × Nₐ ) / ( L × 660 )
+[357] where:
+[358] C = number of copies per µL
+[359] m = mass of DNA in grams per µL
+[360] Nₐ = Avogadro's constant (6.022 × 10²³ molecules/mol)
+[361] L = total length of the fragment in base pairs
+[362] 660 = average molecular weight of one base pair in g/mol, accounting for both strands
+[363] To evaluate the simultaneous detection of both genotypes, the reactions reported in Chapter Three were performed using these prepared 10-fold dilutions from master stock at concentrations in need for each target [51].
+[364] 2.5 Operation and Validation of Multienzyme Isothermal Rapid Amplification Coupled with Lateral Flow Assay
+[365] All MIRA amplification reactions were performed using the DNA Isothermal Rapid Amplification Kit (Nucleic Acid Test Strip format, Catalog No. WLN8203KIT; AMPFuture (Changzhou) Biotechnology Co., Ltd., Changzhou, Jiangsu, China), which supplies AD Buffer, B Buffer, lyophilized reaction units, and a positive control template and primer-probe mix. The kit was stored at −20 °C, protected from light and heavy pressure. Liquid components were thawed at room temperature and vortexed thoroughly before each session, and partially used kits were re-sealed and returned to −20 °C immediately after use. All reagents were used within the manufacturer-specified shelf life of 14 months [52].
+[366] Figure 2.2 Shows the overall assay principle from a sample to an answer platform.
+[367] Reactions were assembled on ice to a total volume of 50 µL in accordance with the manufacturer's protocol [52]. A no-template negative control, containing nuclease-free water in place of template, was included in every experimental run to monitor for contamination. A positive control was also prepared according to the manufacturer's instructions using the supplied positive control template-IV and primer-probe Mix-IV.
+[368] For the validation of assay principle, primer and probe, all the reaction were performed according to the manufacturer instruction. Briefly, AD Buffer (29.4 µL) was added to each lyophilized reaction unit, followed by 2.0 µL of forward primer (10 µM), 0.6 µL of NFO probe (10 µM), 2.0 µL of reverse primer (10 µM), and 13.5 µL of combined template and nuclease-free water, bringing the liquid volume in the tube to 47.5 µL. Finally, 2.5 µL of B Buffer was placed on the inner wall of the tube cap rather than directly into the reaction mixture. The tube was capped, inverted 8 to 10 times to initiate the reaction, and centrifuged briefly. The reaction mixture then incubated at (39-42)oC for 20 min. 
+[369] For the lateral flow assay (LFA), HybriDetect 2T (Milenia Biotec, Giessen, Germany) lateral flow dipstick was used. The amplification product was diluted before application to the dipstick to prevent signal saturation and allow accurate visual interpretation of the test and control lines. A 1:20 dilution was prepared by adding 5 µL of the reaction product to 95 µL of chase buffer in a fresh 1.5 mL microtube. The diluted product was vortexed for five seconds and centrifuged briefly before application to the strip [52]. The diluted amplification product was applied to a dual-line nucleic acid lateral flow dipstick and allowed to develop for ten minutes at room temperature before interpretation. Each strip carries two test lines: T1, bearing immobilized streptavidin for capture of biotin-labelled HPV-16 amplicons, and T2, bearing immobilized anti-digoxigenin antibody for capture of DIG-labelled HPV-18 amplicons. A downstream control line (C) binds excess gold conjugate and confirms valid capillary flow and reagent function. 
+[370] 2.6 Optimization and Characterization of the Assay
+[371] 2.6.1 Reaction Temperature Optimization
+[372] For on-site use, the reaction must proceed without a laboratory heat source. Two temperatures are relevant. Body temperature, approximately 37 °C, can be sustained in the field by holding the reaction tube against the skin, in an axilla, or in a pocket, and requires no instrument of any kind. Ambient temperature, approximately 30 °C, would remove even the need for body contact and allow the reaction to proceed unattended. The assay was accordingly evaluated at both of these temperatures, with a third condition of 42 °C included as an upper reference point corresponding to the manufacturer-recommended optimum for recombinase-based chemistry, against which the performance of the two field-relevant temperatures could be judged. All reactions contained 10 copies/µL of each target and were incubated for 30 min, and each condition was performed in three independent replicates.
+[373] 2.6.2 Reaction Time Optimization
+[374] Having established 37 °C as the working reaction temperature, the kinetics of amplicon accumulation were examined by incubating dual-target reactions containing 10 copies/µL of each template for 10, 15, 20, 25 and 30 min, and resolving the products on the lateral flow dipstick. Each time point was performed in three independent replicates.
+[375] 2.6.3 Optimization of Analytical Sensitivity
+[376] The analytical sensitivity of the optimized assay was assessed by comparing dual-target reactions containing 1, 10 and 100 copies/µL of each template, incubated for 30 min at 37 °C. Each concentration was performed in three independent replicates. Because 1 µL of template was added to each 50 µL reaction, these concentrations correspond to approximately 1, 10 and 100 copies of each target per reaction.
+[377] 2.7 LFA Images and Band Intensity Analysis
+[378] Developed strips were photographed under uniform diffuse illumination against a white background using a Sony Alpha 6400 mirrorless camera (24.2 MP APS-C CMOS sensor; 16-50 mm lens). The camera was operated in automatic mode, and images were saved without cropping, rotation, or adjustment of exposure, white balance, contrast, or color, so that the pixel values passed to the intensity analysis were those directly recorded by the sensor.
+[379] Band intensities were quantified from the digital images using LFA Analyzer, a custom image-analysis application developed by the author for this study using Python (NumPy, Pillow, Matplotlib). The measurement is a linear pixel-intensity measurement; all values are reported in arbitrary units. For each strip, four rectangular regions of interest of equal height were defined: one on the control line, one on T1, one on T2, and one on a band-free region of membrane serving as the local background reference. The four regions were anchored to a single control-line coordinate with fixed inter-line offsets, so that their geometric relationship was held constant across all strips.
+[380] Each region spanned the full width of the strip, and the median pixel intensity within it was taken as the raw value, the median being preferred over the mean for its robustness to dust and specular highlights. Because the captured bands are darker than the surrounding membrane, the net signal of each line was calculated as the raw intensity of the background region minus the raw intensity of that line, so that net intensity increases with band darkness and a value of zero denotes a line indistinguishable from blank membrane. To correct for strip-to-strip variation in flow and development, the net intensity of each test line was normalized against that of the control line on the same strip and expressed as a percentage. This yields the relative intensity (%), defined as the test-to-control (T/C) ratio, reported throughout Chapter Three. All statistical analyses were performed, and graphical representations were generated, using GraphPad Prism version 8.4.2.
+[381] Chapter Three: Results
+[382] 3.1 Validation of Primer, Probe and Assay Workflow for Multiplex Detection of High-Risk Human Papillomavirus Detection
+[383] The first output of this work was the set of oligonucleotides required to amplify and detect the E6 oncogene of HPV-16 and HPV-18 within a single multiplexed reaction. Candidate primer sets were generated against the two E6 reference sequences using PrimedRPA, which applies recombinase-amplification-specific constraints on oligonucleotide length, GC content, and terminal composition [48]. Candidates were then screened for self-complementarity, hairpin formation, and primer-primer dimerization using the MIRA Primer Analyzer [49]. Because both genotypes are amplified together, candidates were additionally screened for cross-interaction between the HPV-16 and HPV-18 oligonucleotides, so that neither set would suppress the other in the duplex reaction.
+[384] The selected design amplifies a 179 bp product from the HPV-16 E6 region and a 314 bp product from the HPV-18 E6 region, each lying wholly within the corresponding synthetic insert. The six oligonucleotides, with their lengths, GC contents, melting temperatures, and terminal modifications, are given in Table 3.1.
+[385] Table 3.1: MIRA primer and NFO probe sets for the HPV-16 and HPV-18 E6 oncogene, as returned by PrimedRPA and screened with the MIRA Primer Analyzer. THF denotes the tetrahydrofuran abasic site recognized by Endonuclease IV; C3 denotes the 3' C3-spacer that blocks extension of the intact probe. GC content is calculated across the nucleotide sequence, excluding the THF site and the terminal modifications.
+[386] Oligo
+[387] Role
+[388] Sequence (5' to 3')
+[389] Length
+[390] GC
+[391] Tm (°C)
+[392] HPV16_FP
+[393] Forward primer
+[394] CAGGAGCGACCCAGAAAGTTACCACAGTTATGC
+[395] 33 nt
+[396] 51.5 %
+[397] 60.0
+[398] HPV16_NFO
+[399] NFO probe
+[400] FAM-TATAATATTAGAATGTGTGTACTGCAAGCAAC[THF]GTTACTGCGACGTGAG-C3
+[401] 49 nt
+[402] 39.6 %
+[403] 65.0
+[404] HPV16_RP
+[405] Reverse primer
+[406] Biotin-TTATCACATACAGCATATGGATTCCCATCTC
+[407] 31 nt
+[408] 38.7 %
+[409] 57.4
+[410] HPV18_FP
+[411] Forward primer
+[412] TGTATAGAGACAGTATACCCCATGCTGCAT
+[413] 30 nt
+[414] 43.3 %
+[415] 60.0
+[416] HPV18_NFO
+[417] NFO probe
+[418] FAM-AATTTATTAATAAGGTGCCTGCGGTGCCAG[THF]AACCGTTGAATCCAGC-C3
+[419] 47 nt
+[420] 45.7 %
+[421] 65.0
+[422] HPV18_RP
+[423] Reverse primer
+[424] DIG-TTATACTTGTGTTTCTCTGCGTCGTTGGAG
+[425] 30 nt
+[426] 43.3 %
+[427] 60.0
+[428] All four primers fall within the 30 to 35 nucleotide range characteristics of recombinase-based amplification, and the melting temperatures of the two probes (65.0 °C) exceed those of the primers, as required for stable internal hybridization of the probe during the reaction. GC contents lie between 38.7 % and 51.5 %. Two oligonucleotides, HPV16_RP (38.7 %) and HPV16_NFO (39.6 %), fall marginally below the 40 % lower bound conventionally applied to MIRA design; both were nevertheless retained because the HPV-16 E6 target region is itself AT-rich, and no alternative candidate satisfying the GC constraint was free of predicted cross-dimerization with the HPV-18 set. Their performance in the assembled assay is reported in the sections that follow.
+[429] The labelling scheme was configured to allow the two genotypes to be resolved independently on a single strip. Both forward primers are unlabeled. Each NFO probe carries a 5'-FAM label, which is bound by the anti-FAM gold nanoparticle conjugate at the conjugate pad, and a 3'-C3-spacer that prevents extension of the intact probe before Endonuclease IV cleaves the THF site. The HPV-16 reverse primer carries a 5'-biotin label and is captured at the T1 test line by immobilized streptavidin, while the HPV-18 reverse primer carries a 5'-digoxigenin label and is captured at the T2 test line by immobilized anti-DIG antibody. A visible band at a test line therefore requires both that the probe has hybridized to a genuine amplicon and been cleaved, and that the corresponding hapten-labelled reverse primer has been incorporated, so that neither event alone is sufficient to generate a signal.
+[430] The probe-mediated architecture described above was not the first design evaluated. An initial and simpler configuration was tested in which the lateral flow labels were carried directly by the two amplification primers and no internal probe was used. In that design the forward primer was labelled at its 5' terminus with fluorescein, providing the epitope for the anti-FAM gold-nanoparticle conjugate, while the reverse primer carried the 5' hapten label required for capture at the test line. The reverse primers were those given in Table 3.1; the forward primers differed and are given in Table 3.2.
+[431] Table 3.2: Forward primers used in the initial directly labelled configuration, subsequently abandoned. The reverse primers were unchanged from Table 3.1.
+[432] Oligo
+[433] Role
+[434] Sequence (5' to 3')
+[435] Length
+[436] HPV16_FP_v1
+[437] Forward primer
+[438] 5'-FAM-AGAAAGTTACCACAGTTATGCACAGAGCTG
+[439] 30
+[440] HPV18_FP_v1
+[441] Forward primer
+[442] 5'-FAM-AGACAGTATACCCCATGCTGCATGCCATAAATG
+[443] 33
+[444] This configuration failed. Applied to the dipstick, it produced discrete bands at both the HPV-16 (T1) and HPV-18 (T2) test lines of the no-template negative control, a false-positive result that cannot be attributed to amplification of the target because no target was present. The artefact is explained by primer-dimer formation: any dimer between the FAM-labelled forward primer and the hapten-labelled reverse primer necessarily carries FAM at one end and biotin or digoxigenin at the other, and is therefore captured at the test line exactly as a genuine amplicon would be. The strip cannot distinguish the two, because it detects the labels and not the sequence between them.
+[445] The assay was consequently redesigned around the probe-mediated architecture given in Table 3.1: the forward primers were left unlabeled and redesigned to minimize predicted primer-primer interaction, and the FAM label was relocated onto an internal NFO probe. In this configuration a dimer between the forward and reverse primers carries only a single hapten and cannot simultaneously bind the gold conjugate and the test line, so it is no longer captured. The experimental demonstration that this eliminated the artefact is presented in the following section.
+[446] Prior to the establishment of the final assay chemistry described in Chapter Two, a simpler primer configuration was evaluated in which the lateral flow labels were carried directly by the two amplification primers and no internal probe was used. The forward primer was labelled at its 5' terminus with fluorescein (FAM) to provide the epitope for the anti-FAM gold-nanoparticle conjugate, while the reverse primer carried the 5' hapten label (biotin for HPV-16, digoxigenin for HPV-18) required for capture at the test line. This configuration failed. Discrete bands appeared at both the HPV-16 (T1) and HPV-18 (T2) test lines of the no-template negative control (Figure 3.1, left strip), a false-positive result that cannot be attributed to amplification of the target, since no target was present.
+[447] The artefact is explained by primer-dimer formation. Any dimer between the FAM-labelled forward primer and the hapten-labelled reverse primer necessarily carries FAM at one end and biotin or digoxigenin at the other, and is therefore captured at the test line exactly as a genuine amplicon would be. The assay was consequently redesigned around the probe-mediated architecture specified by the kit manufacturer [52]: the forward primer was left unlabeled and redesigned to minimize predicted primer-primer interaction, and the FAM label was relocated onto an internal NFO probe that hybridizes within the amplicon. A test line can then form only after the probe has annealed to a genuine target strand and been cleaved at its tetrahydrofuran site by Endonuclease IV, a sequence-dependent event that no primer-dimer can reproduce. Repeating the no-template control with this chemistry produced a normal control line and completely blank test lines (Figure 3.1, right strip), confirming that the artefact had been eliminated. All results reported below were obtained with this redesigned configuration.
+[448] Figure 3.1: Elimination of the primer-dimer artefact by probe-mediated detection, shown by comparing the no-template negative control under the two assay configurations. Left: negative control of the initial design, in which the forward primer carried the FAM label directly and the reverse primer carried the hapten label.
+[449] Before the optimization experiments were interpreted, the integrity of the assay workflow was confirmed using no-template negative controls (NC) and manufacturer-supplied positive controls (PC), which were included in every experimental run. Across all runs, the negative control produced a clearly visible control line while generating no detectable signal at either test line. Neither the T1 nor the T2 position could be distinguished from the blank membrane on the negative-control strips, and both were accordingly recorded as zero net intensity. This confirmed the absence of template contamination, primer-dimer artefacts, and non-specific binding at either capture line, and established that any signal observed in the test reactions was attributable to genuine target amplification. The positive control produced strong, unambiguous bands at both test lines, confirming that both capture chemistries and the gold-nanoparticle conjugate were fully functional. The consistent performance of both controls across every run established a valid analytical framework within which the amplification signals obtained from the HPV-16 and HPV-18 synthetic templates could be reliably interpreted. In all subsequent sections, a test line was regarded as positive only when it yielded a net intensity above that of the corresponding negative control and a discrete band was visually discernible on the strip.
+[450] 3.2 Characterization of Multiplex MIRA-LFD for Field Application
+[451] 3.2.1 Effect of Reaction Temperature on Amplification
+[452] Net band intensity at both test lines increased with reaction temperature across the range tested (Figure 3.2c). Normalized against the control line, the HPV-16 signal was already close to its maximum at 37 °C, whereas the HPV-18 signal continued to rise between 37 °C and 42 °C (Figure 3.2d). At the primary target temperature of 37 °C, both genotypes were detected: the HPV-16 test line produced a strong signal and the HPV-18 test line a weaker but clearly discernible one. Amplification driven by body heat alone was therefore sufficient to bring both targets to a visually interpretable result within 30 min, so body heat alone is sufficient to drive the reaction to a readable endpoint.
+[453] At the secondary target temperature of 30 °C, faint bands developed at both test lines and were scored as positive on close inspection (Figure 3.2a, b). The signal at this temperature was nevertheless very weak, lying close to the floor of the measurement and far below that obtained at 37 °C, with the steepest gain in intensity occurring between the two conditions. Recombinase and polymerase activity at ambient temperature is thus sufficient to initiate amplification but not to sustain efficient exponential accumulation of product within a 30-min window. Signals this marginal cannot be relied upon for confident interpretation by an untrained reader under field lighting, which is the operational requirement the ambient scenario was intended to satisfy. An unattended room-temperature reaction is therefore not supported under these conditions, and this reflects the reaction kinetics rather than a failure of detection as such.
+[454] The 42 °C reference condition gave the strongest signals of the three, confirming that the chemistry itself was performing as expected and that the reduced signal at 37 °C and 30 °C reflects the temperature dependence of the enzymes rather than a deficiency of the assay design. On this basis, 37 °C was adopted as the working reaction temperature for all subsequent optimization and characterization experiments reported in this chapter.
+[455] Figure 3.2: Effect of reaction temperature on MIRA-LFD detection of HPV-16 and HPV-18. All reactions contained 10 copies/µL of each synthetic template and were incubated for 30 min. (a) Lateral flow dipsticks for the negative control (NC) and for reactions performed at 30 °C (ambient target), 37 °C (body-temperature target) and 42 °C (upper reference condition). The control line confirms valid capillary flow and reagent function; test line 1 (T1) reports HPV-16 and test line 2 (T2) reports HPV-18. (b) Visual interpretation of the strips shown in (a): ✓ denotes a discrete, visually discernible band at the corresponding test line and ✗ denotes its absence. (c) Net band intensity, expressed in arbitrary units (a. u.) and calculated as the background reference intensity minus the line intensity, so that higher values denote darker bands. (d) Relative intensity (%), defined as the test-to-control (T/C) ratio, that is, the net intensity of a test line divided by the net intensity of the control line on the same strip, expressed as a percentage. In (c) and (d), values are the mean of three independent replicate reactions and error bars denote the standard deviation (n = 3). NC, negative control; a. u., arbitrary units.
+[456] 3.2.2 Optimization of Incubation Time
+[457] A clear time-dependent development of the test lines was observed, and the two targets displayed distinct detection kinetics (Figure 3.3). Both test lines were visible from the earliest time point sampled, 10 min, but the two signals developed at very different rates. The HPV-18 (T2) line was the stronger of the two at 10 min and increased only slightly thereafter, remaining faint across the whole series. The HPV-16 (T1) line was barely discernible at 10 min and changed little up to 20 min, then rose steeply, overtaking HPV-18 between 20 and 25 min and reaching its strongest signal at 30 min. By 30 min both test lines were developed and the HPV-16 line was unambiguously positive, giving the clearest simultaneous detection of the two genotypes.
+[458] The two targets therefore differ in the timing of exponential onset and not only in signal magnitude. The HPV-18 signal rises early and then plateaus at a low level, whereas the HPV-16 signal remains near the floor of the measurement for the first 20 min and accumulates rapidly thereafter. The plateau in the HPV-18 channel coincides with the steep rise in the HPV-16 channel, which is consistent with the two amplifications drawing on a shared pool of enzymes and nucleotides once the HPV-16 reaction enters its exponential phase. Signal magnitudes were low throughout, as expected at 10 copies/µL, and the replicate spread is correspondingly wide. The visual readout was nevertheless positive for both genotypes at every time point. On this basis, an incubation time of 30 min was adopted as the condition giving the clearest and most balanced detection of both targets at low template concentration.
+[459] Figure 3.3: Effect of incubation time on MIRA-LFD detection of HPV-16 and HPV-18 at 37 °C. All reactions contained 10 copies/µL of each synthetic template. (a) Lateral flow dipsticks for the negative control (NC) and for reactions incubated for 10, 15, 20, 25 and 30 min. The control line confirms valid capillary flow and reagent function; test line 1 (T1) reports HPV-16 and test line 2 (T2) reports HPV-18. (b) Visual interpretation of the strips shown in (a): ✓ denotes a discrete, visually discernible band at the corresponding test line and ✗ denotes its absence. (c) Net band intensity, expressed in arbitrary units (a. u.) and calculated as the background reference intensity minus the line intensity, so that higher values denote darker bands. (d) Relative intensity (%), defined as the test-to-control (T/C) ratio, that is, the net intensity of a test line divided by the net intensity of the control line on the same strip, expressed as a percentage. In (c) and (d), values are the mean of three independent replicate reactions and error bars denote the standard deviation (n = 3). Both test lines are visible from 10 min; the HPV-18 signal rises early and then plateaus, whereas the HPV-16 signal remains low until 20 min and rises steeply thereafter.
+[460] 3.2.3 Analytical Sensitivity and the Effect of Template Copy Number
+[461] Bands were visible at both test lines at every concentration tested, including the lowest (Figure 3.4a, b). At 1 copy/µL, however, the signal at both lines was very faint and lay close to the floor of the measurement, whereas at 10 copies/µL both lines were clearly and unambiguously developed. The lowest input tested delivers approximately one molecule of each target to the tube, and bands were nevertheless obtained at both test lines, which shows that the MIRA-LFD chemistry is capable of amplifying a single template molecule to a visually detectable product. At this input the number of molecules actually present in any given tube is governed by Poisson sampling, so a proportion of reactions would be expected to receive no template at all, and the detection rate at 1 copy/µL cannot approach 100% however efficient the amplification. Single-molecule amplification is therefore reported here as demonstrated, while 10 copies/µL of each target is reported as the concentration at which the assay gives a confident dual-target result under the operating conditions of this study.
+[462] The two targets responded differently to the change in template concentration (Figure 3.4c, d). The HPV-18 (T2) signal rose steadily with increasing template, consistent with a conventional concentration-dependent response. The HPV-16 (T1) signal did not: it increased sharply from 1 to 10 copies/µL but then fell back at 100 copies/µL, despite a tenfold increase in input template. The proportional analysis shows the same effect from the other side, with the relative contribution of the HPV-16 line to the combined test signal greatest at 10 copies/µL and reduced at 100 copies/µL, where HPV-18 contributed the larger share.
+[463] An amplification signal that falls as template rises cannot be explained by the availability of target and points instead to interaction between the two amplicons within the shared reaction. As the more efficiently amplified HPV-18 target accumulates, it competes for the finite pool of recombinase, single-stranded DNA binding protein, polymerase and nucleotides available in the tube, suppressing the weaker HPV-16 reaction. This interpretation is consistent with the kinetic behaviour observed in §3.4, where the HPV-18 signal rose early and then plateaued at the point at which the HPV-16 reaction entered its exponential phase. The consequences of this competition for the design of the multiplex are examined further in the Discussion.
+[464] Figure 3.4: Effect of template copy number on MIRA-LFD detection of HPV-16 and HPV-18 following a 30-min reaction at 37 °C. (a) Lateral flow dipsticks for the negative control (NC) and for reactions containing 1, 10 and 100 copies/µL of each synthetic template. The control line confirms valid capillary flow and reagent function; test line 1 (T1) reports HPV-16 and test line 2 (T2) reports HPV-18. (b) Visual interpretation of the strips shown in (a): ✓ denotes a discrete, visually discernible band at the corresponding test line and ✗ denotes its absence. (c) Net band intensity, expressed in arbitrary units (a. u.) and calculated as the background reference intensity minus the line intensity, so that higher values denote darker bands. (d) Relative intensity (%), defined as the test-to-control (T/C) ratio, that is, the net intensity of a test line divided by the net intensity of the control line on the same strip, expressed as a percentage. In (c) and (d), values are the mean of three independent replicate reactions and error bars denote the standard deviation (n = 3). The HPV-18 signal rises with template concentration whereas the HPV-16 signal falls between 10 and 100 copies/µL, consistent with competition between the two targets within the multiplexed reaction. NC, negative control; a. u., arbitrary units.
+[465] Chapter Four: Discussion
+[466] This study set out to develop an equipment-free molecular platform combining Multienzyme Isothermal Rapid Amplification with lateral flow dipstick detection for the simultaneous identification of the E6 oncogene of HPV-16 and HPV-18. Both genotypes were amplified at body temperature and detected visually on a dual-line strip within 30 min, without thermal cycling and without instrumentation for readout. The sections below interpret the design failure that shaped the final assay chemistry, the temperature behaviour of the reaction, the kinetic and concentration effects seen in the multiplex, and the position of the platform relative to existing methods.
+[467] The failure of the directly labelled primer configuration (§3.1) reflects a constraint on amplification-coupled lateral flow assays rather than a technical mishap. The strip is not a sequence-specific detector. It captures any molecule that carries both the conjugate epitope and the test-line hapten, and it has no access to the sequence lying between them. When both primers are labelled, that condition is satisfied by a forward-reverse primer-dimer as readily as by the intended amplicon, and the specificity conferred by amplification is discarded at the point of detection. The problem is acute in recombinase-based chemistry, which uses primers of 30 to 35 nucleotides at 37 °C to 42 °C, conditions under which the thermal stringency that normally disfavour spurious primer-primer annealing is absent [32], [33]. Primer-dimer formation is therefore an expected property of the chemistry and not an avoidable accident, which is why the artefact appeared in the no-template control as a clean, discrete band at both test lines rather than as background smearing.
+[468] Relocating the FAM label onto an internal NFO probe decouples the two labels. The dual-labelled species required for capture can then arise only through hybridization of the probe to an authentic amplicon followed by cleavage at the tetrahydrofuran site by Endonuclease IV, a sequence-dependent event that no primer-dimer can reproduce. This restores sequence specificity at the detection step, and it is the architecture prescribed by the kit manufacturer [52] and used in reported MIRA-LFD assays for other pathogens [34], [36]. The blank test lines obtained with the redesigned chemistry in the no-template control (§3.1, §3.2) confirm that the artefact was eliminated. The consequence is diagnostic and not only methodological, since a false-positive high-risk HPV result would commit a woman to colposcopy, cost, and anxiety she does not need, and repeated false positives would quickly destroy confidence in a screening test intended for use by non-specialists.
+[469] The temperature results (§3.3) should be read against the deployment goal rather than as a conventional optimization. The optimum for recombinase-based chemistry lies near 42 °C, and the kit protocol specifies that temperature [32], [52]. Operating there requires a heat block or an incubator, which reintroduces the infrastructure dependence that an isothermal platform exists to remove. The relevant question is not where the chemistry performs best, but whether it performs adequately at a temperature that is actually available at the point of care.
+[470] By that criterion the assay is usable. At 37 °C both genotypes reached a visually interpretable endpoint within 30 min at 10 copies/µL, and the HPV-16 test line was as strong at 37 °C as at the 42 °C reference condition, indicating that body heat is close to saturating for that target. The HPV-18 line behaved differently: it was clearly readable at 37 °C but appreciably weaker than at 42 °C, so the temperature penalty of abandoning the heat block is carried almost entirely by one of the two channels. That the time-course and copy-number experiments were all performed at 37 °C, with both targets detected, confirms body temperature as a workable operating condition for the assay as a whole.
+[471] Ambient operation is a different matter. At 30 °C faint bands did develop at both test lines and were scored as positive on close inspection, so the reaction is slowed rather than abolished at ambient temperature, which is consistent with the premise on which the kit is sold. The signals were nevertheless very weak and lay close to the floor of the measurement, and a band that requires close inspection under laboratory lighting cannot be relied upon by an untrained reader in the field, which is the operational requirement the ambient scenario was intended to satisfy. Recombinase loading and strand exchange slow markedly below the recombinase-compatible window [32], [33], and a 30-min incubation is evidently too short to compensate. Ambient operation may still be attainable through longer incubation, higher enzyme concentration, primers redesigned for low-temperature strand invasion, or a chemical exothermic heater. In its present form the platform requires body contact and is not a true ambient-temperature test, which bounds the deployment scenario it can support.
+[472] Three features of the low-copy behaviour is related and are best interpreted together. First, the HPV-18 line developed faster than the HPV-16 line in the early phase of the reaction (§3.4): at 10 min the HPV-18 signal was already the stronger of the two, and it remained so until about 20 min, despite the HPV-16 amplicon being the shorter of the two (179 bp against 314 bp). This reverses the expectation that shorter products accumulate faster. Recombinase-mediated strand invasion is sensitive to primer sequence and to the local context of the binding site [32], [36], so a difference in primer efficiency can outweigh a difference in amplicon length, and the two targets are in addition captured by different chemistries, biotin-streptavidin at T1 and digoxigenin-anti-DIG at T2, with different affinities. The GC content of the HPV-16 primer set lies marginally below the design window (§3.1), which may further reduce the efficiency of strand invasion on that target. Because amplicon accumulation was not quantified independently of capture, these contributions cannot be separated with the present data.
+[473] Second, the HPV-16 signal did not increase when the template was raised from 10 to 100 copies/µL, and in fact declined, while HPV-18 rose as expected (§3.5). A signal that falls as target rises cannot be explained by the availability of target. It points to interaction within the multiplex, in which both primer sets draw on one shared pool of recombinase, single-stranded DNA-binding protein, polymerase, and nucleotides, so a higher load of the more efficiently amplified target consumes a disproportionate share and suppresses its competitor. The same effect accounts for the plateau of the HPV-18 signal in the later part of the time course (§3.4), which coincides with the point at which the HPV-16 reaction enters its exponential phase and begins to draw on the same pool. The two observations are one phenomenon seen along two different axes.
+[474] Third, replicate variability was high. The error bars across three independent replicates at 10 copies/µL (Figures 3.2 to 3.4) approach the magnitude of the means themselves, which is characteristic of amplification near the limit of detection, where stochastic differences among only tens of starting molecules are amplified exponentially. The qualitative readout, which is what the assay is designed to deliver, remained interpretable across replicates, but the intensity values are semi-quantitative and should not be read as a calibration curve. Equalizing the two channels will require rebalancing the primer and probe concentrations, most directly by increasing the HPV-16 oligonucleotides relative to the HPV-18 set, and possibly by redesigning the HPV-16 primers to raise their GC content once the cross-dimer constraint is revisited.
+[475] Conventional qPCR-based HPV assays are sensitive and specific but depend on thermal cyclers, stable power, cold-chain reagents, and trained personnel, which is what has kept them out of decentralized screening in settings where the disease burden is highest [53]. The platform reported here removes each of those dependencies in turn. The reaction runs at a single temperature that body contact can sustain, the readout is a visual band on a strip, and the amplification chemistry is patent-independent, so the assay can be assembled and run without the capital equipment that a molecular laboratory implies [52].
+[476] Targeting E6 rather than the L1 capsid gene used by most established assays is a deliberate feature of this design. L1 is frequently lost when the viral genome integrates into the host chromosome, whereas E6 is retained and transcribed in exactly those integrated infections that carry the highest risk of progression [8], [18]. An L1-based test can therefore return a false negative in the women who most need a positive result, and an E6-based test cannot fail in that particular way. The trade-off is that E6 is present in fewer copies in transient, non-integrated infections, so an E6 assay is inherently biased toward detecting the infections that matter clinically rather than toward detecting infection as such. For a screening test whose purpose is to identify women at risk of progression rather than to count carriers, that bias is in the right direction.
+[477] Yin and colleagues coupled MIRA to CRISPR/Cas12a and obtained strong clinical performance for high-risk HPV genotyping [37]. The present platform uses the same amplification chemistry with a simpler readout, forgoing the additional analytical layer and the fluorescence reader it requires in exchange for a lower operational burden. Other MIRA-LFD assays developed for pathogen detection have taken the same approach and report comparable sensitivity to laboratory methods [34], [36]. What distinguishes the present work is the multiplexing of two genotypes onto separate capture lines of a single strip, which allows both to be reported from one reaction and one readout.
+[478] These properties suit settings such as Bangladesh, where HPV DNA testing has not been implemented at scale and screening still rests largely on visual inspection with acetic acid. The assay returns a visual result for the two genotypes responsible for most of the national cervical cancer burden in about 30 min, and because 37 °C can be sustained by body contact, no thermal cycler, heat block, or power supply is required at any stage, which matters where electricity is intermittent. The platform is consistent with the ASSURED criteria for point-of-care diagnostics [53]. The competition between the two channels documented in §4.3 is the main obstacle to deployment in this form, since a test that is systematically less sensitive to one of the two genotypes it reports is not yet fit for diagnostic use.
+[479] Several limitations qualify these findings. All experiments used synthetic E6 fragments rather than clinical specimens, so the assay has not been challenged with the genomic complexity, inhibitors, and variable viral loads of real samples, and its diagnostic sensitivity and specificity against a reference standard remain to be established. Specificity was not tested against non-target HPV genotypes or human genomic DNA, so cross-reactivity cannot be excluded. Only three replicates per condition were performed and the limit of detection was not determined formally. Amplification from approximately one molecule of each target was demonstrated, but a limit of detection is conventionally defined as the input detected in 95% of replicates, and at a mean of one molecule per reaction Poisson sampling places a ceiling on the detection rate that no amplification chemistry can exceed. Establishing a limit of detection therefore requires a dilution series spanning the single-molecule region with sufficient replication for probit analysis, which was beyond the scope of this work. Finally, the competition between the two channels indicates the multiplex requires rebalancing before both genotypes can be detected with equal sensitivity. Validation on clinical specimens, formal specificity and limit-of-detection studies, expanded replication, and reoptimization of the multiplex balance constitutes the necessary next stage.
+[480] Chapter Five: References
+[481] [1]M. E. Martinez, K. M. Schmeler, M. Lajous, and L. A. Newman, “Cancer Screening in Low- and Middle-Income Countries,” Am. Soc. Clin. Oncol. Educ. Book, vol. 44, no. 3, p. e431272, Jun. 2024, doi: 10.1200/EDBK_431272.
+[482] [2]H. Sung et al., “Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries,” CA. Cancer J. Clin., vol. 71, no. 3, pp. 209–249, May 2021, doi: 10.3322/caac.21660.
+[483] [3]K. Julekha, K. M. Abdul, J. Shahrin, C. J. Mawa, and B. Saikat, “Mortality Predictors and Survival Analysis in Cervical Cancer Patients Treated with Brachytherapy: A Retrospective Study at RMCH,” Radiat. Sci. Technol., vol. 10, no. 4, pp. 56–65, Dec. 2024, doi: 10.11648/j.rst.20241004.11.
+[484] [4]“Cervical cancer.” Accessed: Jun. 16, 2026. [Online]. Available: https://www.who.int/news-room/fact-sheets/detail/cervical-cancer
+[485] [5]K. Canfell et al., “Mortality impact of achieving WHO cervical cancer elimination targets: a comparative modelling analysis in 78 low-income and lower-middle-income countries,” The Lancet, vol. 395, no. 10224, pp. 591–603, Feb. 2020, doi: 10.1016/S0140-6736(20)30157-4.
+[486] [6]S. Pimple, G. Mishra, and S. Shastri, “Global strategies for cervical cancer prevention,” Curr. Opin. Obstet. Gynecol., vol. 28, no. 1, p. 4, Feb. 2016, doi: 10.1097/GCO.0000000000000241.
+[487] [7]“Number of deaths from cervical cancer,” Our World in Data. Accessed: Jul. 12, 2026. [Online]. Available: https://ourworldindata.org/grapher/number-of-deaths-from-cervical-cancer
+[488] [8]N. Muñoz et al., “Epidemiologic Classification of Human Papillomavirus Types Associated with Cervical Cancer,” N. Engl. J. Med., vol. 348, no. 6, pp. 518–527, Feb. 2003, doi: 10.1056/NEJMoa021641.
+[489] [9]S. Sharmin et al., “Genotypic distribution and prevalence of human papillomavirus infection in an apparently healthy female population in Bangladesh,” IJID Reg., vol. 1, pp. 130–134, Dec. 2021, doi: 10.1016/j.ijregi.2021.10.005.
+[490] [10]K. E. Gallagher et al., “Lessons learnt from human papillomavirus (HPV) vaccination in 45 low- and middle-income countries,” PloS One, vol. 12, no. 6, p. e0177773, 2017, doi: 10.1371/journal.pone.0177773.
+[491] [11]“WHO/UNICEF estimates of national immunization coverage.” Accessed: Jun. 16, 2026. [Online]. Available: https://www.who.int/teams/immunization-vaccines-and-biologicals/immunization-analysis-and-insights/global-monitoring/immunization-coverage/who-unicef-estimates-of-national-immunization-coverage
+[492] [12]A. Nessa, “Cervical Cancer Screening Program in Bangladesh,” Bangladesh J. Obstet. Gynaecol., Jan. 2020, doi: 10.3329/BJOG.V33I1.43550.
+[493] [13]A. Nessa, A. K. Azad, S. M. N. Uddin, M. A. H. Khan, S. Zaman, and M. A. S. Khan, “Cervical cancer screening data from the case-based national electronic registry in Bangladesh,” BMC Glob. Public Health, vol. 3, no. 1, p. 34, Apr. 2025, doi: 10.1186/s44263-025-00145-x.
+[494] [14]A. S. M. Nurunnabi and T. Sultana, “Visual Inspection Using Acetic Acid (VIA) and Pap’s Smear as Methods of Cervical Cancer Screening: An Experience of Dhaka Medical College Hospital, Dhaka, Bangladesh,” Int. J. Hum. Health Sci. IJHHS, vol. 4, pp. 189–193, Feb. 2020, doi: 10.31344/ijhhs.v4i3.199.
+[495] [15]A. Nessa, K. N. Nahar, S. A. Begum, S. A. Anwary, F. Hossain, and K. Nahar, “Comparison between visual inspection of cervix and cytology based screening procedures in Bangladesh,” Asian Pac. J. Cancer Prev. APJCP, vol. 14, no. 12, pp. 7607–7611, 2013, doi: 10.7314/apjcp.2013.14.12.7607.
+[496] [16]H. A. Azhari, M. Chawdhury, F. Islam, G. A. Zakaria, K. Dalal, and H. M. Reza, “Visual inspection with acetic acid and colposcopy: screening of cervical cancer in resource-limited healthcare settings,” Front. Glob. Womens Health, vol. 6, p. 1684205, doi: 10.3389/fgwh.2025.1684205.
+[497] [17]N. E. Alam et al., “Lack of knowledge is the leading key for the growing cervical cancer incidents in Bangladesh: A population based, cross-sectional study,” PLOS Glob. Public Health, vol. 2, no. 1, p. e0000149, Jan. 2022, doi: 10.1371/journal.pgph.0000149.
+[498] [18]K. Münger, P. Howley, and D. DiMaio, “Human Papillomavirus E6 and E7 Oncogenes,” in The Papillomaviruses, R. L. Garcea and D. DiMaio, Eds., Boston, MA: Springer US, 2007, pp. 197–252. doi: 10.1007/978-0-387-36523-7_10.
+[499] [19]R. D. Burk, Z. Chen, and K. Van Doorslaer, “Human Papillomaviruses: Genetic Basis of Carcinogenicity,” Public Health Genomics, vol. 12, no. 5–6, pp. 281–290, Aug. 2009, doi: 10.1159/000214919.
+[500] [20]J. Doorbar et al., “The biology and life-cycle of human papillomaviruses,” Vaccine, vol. 30 Suppl 5, pp. F55-70, Nov. 2012, doi: 10.1016/j.vaccine.2012.06.083.
+[501] [21]M. Scheffner, B. A. Werness, J. M. Huibregtse, A. J. Levine, and P. M. Howley, “The E6 oncoprotein encoded by human papillomavirus types 16 and 18 promotes the degradation of p53,” Cell, vol. 63, no. 6, pp. 1129–1136, Dec. 1990, doi: 10.1016/0092-8674(90)90409-8.
+[502] [22]J. Doorbar, “Molecular biology of human papillomavirus infection and cervical cancer,” Clin. Sci., vol. 110, no. 5, pp. 525–541, May 2006, doi: 10.1042/CS20050369.
+[503] [23]“WHO guideline for screening and treatment of cervical pre-cancer lesions for cervical cancer prevention.” Accessed: Jun. 17, 2026. [Online]. Available: https://www.who.int/publications/i/item/9789240030824
+[504] [24]C. J. L. M. Meijer et al., “Guidelines for human papillomavirus DNA test requirements for primary cervical cancer screening in women 30 years and older,” Int. J. Cancer, vol. 124, no. 3, pp. 516–520, 2009, doi: 10.1002/ijc.24010.
+[505] [25]Q. Zhang, X. Zhang, J. Yang, and H. Li, “Point-of-care molecular diagnostics and drug-resistance mechanisms in neglected infectious diseases: current advances and future therapeutic opportunities,” Front. Cell. Infect. Microbiol., vol. 16, p. 1769679, doi: 10.3389/fcimb.2026.1769679.
+[506] [26]P. Craw and W. Balachandran, “Isothermal nucleic acid amplification technologies for point-of-care diagnostics: a critical review,” Lab. Chip, vol. 12, no. 14, pp. 2469–2486, Jun. 2012, doi: 10.1039/C2LC40100B.
+[507] [27]C. Wang, M. Liu, Z. Wang, S. Li, Y. Deng, and N. He, “Point-of-care diagnostics for infectious diseases: From methods to devices,” Nano Today, vol. 37, p. 101092, Apr. 2021, doi: 10.1016/j.nantod.2021.101092.
+[508] [28]T. Notomi et al., “Loop-mediated isothermal amplification of DNA,” Nucleic Acids Res., vol. 28, no. 12, p. E63, Jun. 2000, doi: 10.1093/nar/28.12.e63.
+[509] [29]J. Compton, “Nucleic acid sequence-based amplification,” Nature, vol. 350, no. 6313, pp. 91–92, Mar. 1991, doi: 10.1038/350091a0.
+[510] [30]M. Vincent, Y. Xu, and H. Kong, “Helicase-dependent isothermal DNA amplification,” EMBO Rep., vol. 5, no. 8, pp. 795–800, Aug. 2004, doi: 10.1038/sj.embor.7400200.
+[511] [31]G. T. Walker, M. S. Fraiser, J. L. Schram, M. C. Little, J. G. Nadeau, and D. P. Malinowski, “Strand displacement amplification—an isothermal, in vitro DNA amplification technique,” Nucleic Acids Res., vol. 20, no. 7, pp. 1691–1696, 1992, doi: 10.1093/nar/20.7.1691.
+[512] [32]O. Piepenburg, C. H. Williams, D. L. Stemple, and N. A. Armes, “DNA Detection Using Recombination Proteins,” PLoS Biol., vol. 4, no. 7, p. e204, Jun. 2006, doi: 10.1371/journal.pbio.0040204.
+[513] [33]R. K. Daher, G. Stewart, M. Boissinot, and M. G. Bergeron, “Recombinase Polymerase Amplification for Diagnostic Applications,” Clin. Chem., vol. 62, no. 7, pp. 947–958, Jul. 2016, doi: 10.1373/clinchem.2015.245829.
+[514] [34]C. Ji et al., “Development of a multienzyme isothermal rapid amplification and lateral flow dipstick combination assay for bovine coronavirus detection,” Front. Vet. Sci., vol. 9, Jan. 2023, doi: 10.3389/fvets.2022.1059934.
+[515] [35]O. Piepenburg, C. H. Williams, N. A. Armes, and D. L. Stemple, “Recombinase polymerase amplification,” US7399590B2, Jul. 15, 2008 Accessed: Jun. 19, 2026. [Online]. Available: https://patents.google.com/patent/US7399590B2/en/
+[516] [36]P. Heng, J. Liu, Z. Song, C. Wu, X. Yu, and Y. He, “Rapid detection of Staphylococcus aureus using a novel multienzyme isothermal rapid amplification technique,” Front. Microbiol., vol. 13, p. 1027785, Oct. 2022, doi: 10.3389/fmicb.2022.1027785.
+[517] [37]L. Yin et al., “Development and evaluation of a CRISPR/Cas12a-based diagnostic test for rapid detection and genotyping of HR-HPV in clinical specimens,” Microbiol. Spectr., vol. 13, no. 1, pp. e02253-24, Nov. 2024, doi: 10.1128/spectrum.02253-24.
+[518] [38]R. Wong and H. Tse, Eds., Lateral Flow Immunoassay. Totowa, NJ: Humana Press, 2009. doi: 10.1007/978-1-59745-240-3.
+[519] [39]“Lateral flow assays,” Reagents and equipment for R&D of lateral flow assays. Accessed: Jul. 11, 2026. [Online]. Available: https://lateralflows.com/lateral-flow-assays/
+[520] [40]G. A. Posthuma-Trumpie, J. Korf, and A. Van Amerongen, “Lateral flow (immuno)assay: its strengths, weaknesses, opportunities and threats. A literature survey,” Anal. Bioanal. Chem., vol. 393, no. 2, pp. 569–582, Jan. 2009, doi: 10.1007/s00216-008-2287-2.
+[521] [41]X. Huang, Z. P. Aguilar, H. Xu, W. Lai, and Y. Xiong, “Membrane-based lateral flow immunochromatographic strip with nanoparticles as reporters for detection: A review,” Biosens. Bioelectron., vol. 75, pp. 166–180, Jan. 2016, doi: 10.1016/j.bios.2015.08.032.
+[522] [42]“HybriDetect 2T - Universal Lateral Flow Test Strips - Multiplex » Milenia Biotec.” Accessed: Jun. 30, 2026. [Online]. Available: https://www.milenia-biotec.com/en/product/hybridetect-2t/
+[523] [43]D. Mabey, R. W. Peeling, A. Ustianowski, and M. D. Perkins, “Diagnostics for the developing world,” Nat. Rev. Microbiol., vol. 2, no. 3, pp. 231–240, Mar. 2004, doi: 10.1038/nrmicro841.
+[524] [44]PubChem, “E6 - protein E6*;transforming protein E6 (Human papillomavirus 16).” Accessed: Jun. 25, 2026. [Online]. Available: https://pubchem.ncbi.nlm.nih.gov/gene/E6/Human_papillomavirus_16
+[525] [45]“E6 E6 protein [human papillomavirus 18] - Gene - NCBI.” Accessed: Jun. 25, 2026. [Online]. Available: https://www.ncbi.nlm.nih.gov/gene/1489088
+[526] [46]“Human papillomavirus type 16, complete genome.” Apr. 30, 2025. Accessed: Jun. 25, 2026. [Online]. Available: http://www.ncbi.nlm.nih.gov/nuccore/NC_001526.4
+[527] [47]“Human papillomavirus - 18, complete genome.” Aug. 13, 2018. Accessed: Jun. 25, 2026. [Online]. Available: http://www.ncbi.nlm.nih.gov/nuccore/NC_001357.1
+[528] [48]M. Higgins et al., “PrimedRPA: primer design for recombinase polymerase amplification assays,” Bioinformatics, vol. 35, no. 4, pp. 682–684, Feb. 2019, doi: 10.1093/bioinformatics/bty701.
+[529] [49]“MIRA Primer Analyzer App.” Accessed: Jun. 27, 2026. [Online]. Available: https://mira.soash.dev/
+[530] [50]“Gene Fragments | GenScript.” Accessed: Jun. 25, 2026. [Online]. Available: https://www.genscript.com/gene-fragments.html
+[531] [51]M. R. Green, Molecular cloning: a laboratory manual, 4th ed. Cold Spring Harbor, N.Y: Cold Spring Harbor Laboratory Press, 2012.
+[532] [52]“China MIRA DNA Isothermal Rapid Amplification Kit Nucleic Acid Test Strip Manufacturers Suppliers.” Accessed: Jun. 28, 2026. [Online]. Available: https://www.amp-futurebio.com/laboratory-research-reagent/regular-scientific-research-kit/mira-dna-isothermal-rapid-amplification-ki.html
+[533] [53]A. Niemz, T. M. Ferguson, and D. S. Boyle, “Point-of-care nucleic acid testing for infectious diseases,” Trends Biotechnol., vol. 29, no. 5, pp. 240–250, May 2011, doi: 10.1016/j.tibtech.2011.01.007.
